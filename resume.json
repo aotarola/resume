@@ -1,0 +1,167 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Andres Otarola Alvarado",
+    "label": "Software Engineer",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGT-cDuyhofLA/profile-displayphoto-shrink_800_800/0/1634527015149?e=1652313600&v=beta&t=Nnuk9HcJ1Lj47cwZ3gVWMU-9WgPSp9r8vBozHu_0M1I",
+    "email": "andres@otarola.me",
+    "phone": "(650) 307 3844",
+    "url": "https://otarola.me",
+    "summary": "Engineer with +10 years of experience, I have worked with Nodejs, Ruby on Rails, PHP, Python, Groovy, Elm and Javascript for the most part of my career. I’ve work frameworks such as React, Preact, Django, and CakePHP.\n\nI like type inference functional languages, my all time favorite is Elm, but I have a soft spot for Javascript. I like to tinker with my editor (nvim), and write my code at the speed of thought 😉.\n\nDuring my career I’ve been in the frontend, backend, platform support (CI, cloud, third party integrations), and even email deliverability. Currently, I’m specializing in Platform/Frontend and Web performance.\n\nLast but not least, I like to bake bread 🥖 and brew kombucha, checkout some of my recipes at http://otarola.me\n\nI'm very passionate about the things I do, especially if the task is challenging. \n\nAnd of course, I like to learn new stuff/tech!",
+    "location": {
+      "countryCode": "US",
+      "address": "630 Veterans Blvd, Unit 281, Redwood City, California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aotarolaalvarado",
+        "url": "https://www.linkedin.com/in/aotarolaalvarado/"
+      },
+      {
+        "network": "Twitter",
+        "username": "_aotarola_",
+        "url": "https://twitter.com/_aotarola_"
+      },
+      {
+        "network": "Github",
+        "username": "aotarola",
+        "url": "https://github.com/aotarola"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Groupon",
+      "position": "Senior Software Engineer (Remote)",
+      "startDate": "2021-10-31",
+      "highlights": [],
+      "summary": "Member of the Web Core Team\n - Architected and implemented web integration for Optimizely A/B testing service\n - Supported teams to migrate their on-prem services to the cloud and simplified core cloud configuration for Web.",
+      "url": "https://www.linkedin.com/company/groupon/",
+      "location": "Redwood City, California, United States"
+    },
+    {
+      "name": "Groupon",
+      "position": "Senior Software Engineer",
+      "startDate": "2019-02-28",
+      "endDate": "2021-09-30",
+      "highlights": [],
+      "summary": "Tech lead of the checkout web team (purchase confirmation page) and user sessions team\n - Architected and implemented web and mobile integration with 3DS2.0\n - Complete overhaul to login/signup web application, thus making it meet business' performance goals",
+      "url": "https://www.linkedin.com/company/groupon/",
+      "location": "Chicago, Illinois, United States"
+    },
+    {
+      "name": "Groupon",
+      "position": "Software Engineer",
+      "startDate": "2015-08-31",
+      "endDate": "2019-02-28",
+      "highlights": [],
+      "summary": "Tech lead of the checkout web team (purchase confirmation page)\n - Refactored confirmation/receipt page (UX-wise, CSS and JS was remade)\n - Led touch redesign project for confirmation page, frontend stack: redux & preact\n - Migrated our integration testing browser agent from PhantomJS to headless chrome. \n - Building and leading magic link implementation as an alternate authentication method\n - Migrated our logging searches from Splunk to ELK\n - Integrated ELK searches into Wavefront",
+      "url": "https://www.linkedin.com/company/groupon/",
+      "location": "3101 Park Boulevard, Palo Alto, California"
+    },
+    {
+      "name": "Groupon",
+      "position": "Software Engineer",
+      "startDate": "2013-07-31",
+      "endDate": "2015-07-31",
+      "highlights": [],
+      "summary": "User Workflow Team (Chicago Team) - Software Engineer - NodeJs/Ruby\n\nResponsibilities:\n- Develop a NodeJs application using an in-house Framework to migrate current Monolithic App (Ruby on Rails) to a pool of distributed apps\n- The apps that I worked on were: Checkout, My account and Login/SignUp/Password Reset (all in NodeJs)\n- Modified current API frontend to enable some endpoints that needed to talk with our NodeJs apps, this API was written in Ruby On Rails (needed for the migration)\n- Participated in the migration for US/Canada, and also in the EMEA migration for our apps\n- Modified current API frontend to be ready to serve all deal types for a specific multi item endpoint for our checkout application (needed to allow checkout to take over for goods deal for US)",
+      "url": "https://www.linkedin.com/company/groupon/",
+      "location": "Vitacura 2771, Santiago, Chile"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Arturo Prat",
+      "area": "Software Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2004-12-31",
+      "endDate": "2009-12-31"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": [
+        "HTML/JSX",
+        "Stylus/TailwindCSS/CSS",
+        "Javascript/Typescript/Coffeescript",
+        "Preact/React/Next",
+        "Redux",
+        "Elm"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "NodeJS",
+        "Ruby",
+        "Python",
+        "Postgres",
+        "Django",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Devops",
+      "level": "",
+      "keywords": [
+        "Kubernetes",
+        "CI/Jenkins",
+        "Heroku",
+        "Netlifly",
+        "Vercel"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Fluent Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Functional Programming"
+    },
+    {
+      "name": "Videogames"
+    },
+    {
+      "name": "Boardgames"
+    },
+    {
+      "name": "Bread baking 🥖"
+    }
+  ],
+  "references": [
+    {
+      "name": "Vanessa Yévenes",
+      "reference": "Andres is a dedicated professional, with great interest in learning and great collaboration with his colleagues."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Encuentro Linux 2007",
+      "startDate": "2007-12-31",
+      "summary": "Developed the site's backend in Ruby on Rails 1.2",
+      "url": "http://2007.encuentrolinux.cl",
+      "endDate": "2007-12-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
