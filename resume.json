@@ -6,7 +6,7 @@
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGT-cDuyhofLA/profile-displayphoto-shrink_800_800/0/1634527015149?e=1652313600&v=beta&t=Nnuk9HcJ1Lj47cwZ3gVWMU-9WgPSp9r8vBozHu_0M1I",
     "email": "andres@otarola.me",
     "phone": "(650) 307 3844",
-    "url": "https://otarola.me",
+    "website": "https://otarola.me",
     "summary": "Engineer with +10 years of experience, I have worked with Nodejs, Ruby on Rails, PHP, Python, Groovy, Elm and Javascript for the most part of my career. I’ve work frameworks such as React, Preact, Django, and CakePHP.\n\nI like type inference functional languages, my all time favorite is Elm, but I have a soft spot for Javascript. I like to tinker with my editor (nvim), and write my code at the speed of thought 😉.\n\nDuring my career I’ve been in the frontend, backend, platform support (CI, cloud, third party integrations), and even email deliverability. Currently, I’m specializing in Platform/Frontend and Web performance.\n\nLast but not least, I like to bake bread 🥖 and brew kombucha, checkout some of my recipes at http://otarola.me\n\nI'm very passionate about the things I do, especially if the task is challenging. \n\nAnd of course, I like to learn new stuff/tech!",
     "location": {
       "countryCode": "US",
@@ -161,6 +161,7 @@
     }
   ],
   "meta": {
+    "theme": "elegant",
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
