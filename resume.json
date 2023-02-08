@@ -6,7 +6,7 @@
     "email": "andres@otarola.me",
     "phone": "(650) 307 3844",
     "website": "https://otarola.me",
-    "summary": "I'm a software engineer with +12 years of experience, passionate about technology, web development, and functional programming.\n\nThroughout my career; I had the opportunity to grow at Groupon by building and managing web applications and architected platform-level solutions. I have worked with product and platform teams with a strong front-end focus.\n\nCurrently, I'm looking for a remote frontend role (I'm flexible on a hybrid remote position as well).\n\nMy ideal team is one with highly skilled individuals looking to keep improving and helping each other.",
+    "summary": "I'm a software engineer with +12 years of experience, passionate about technology, web development, and functional programming.\n\nThroughout my career, I had the opportunity to grow at Groupon by building and managing web applications and architected platform-level solutions. I have worked with product and platform teams with a strong front-end focus.\n\nCurrently, I'm looking for a remote front-end role (I'm flexible on a hybrid remote position as well).\n\nMy ideal team is one with highly skilled individuals looking to keep improving and helping each other.",
     "location": {
       "countryCode": "US",
       "region": "California",
@@ -37,12 +37,12 @@
       "position": "Senior Software Engineer (Remote)",
       "startDate": "2021-10-31",
       "endDate": "2022-10-08",
-      "summary": "Member of the Web Core Team",
+      "summary": "Member of the Web Core Team.",
       "highlights": [
-        "Architected and implemented Optimizely A/B testing service Web integration",
-        "Supported teams to migrate on-prem services onto AWS",
-        "Built internal web application to visualize and validate experiments on Optimizely. Elm was used in this project",
-        "Led platform-level communications to feature teams every week"
+        "Architected and implemented Optimizely A/B testing service Web integration.",
+        "Supported teams to migrate on-prem services onto AWS.",
+        "Built an internal web application to visualize and validate experiments on Optimizely. The language used was Elm.",
+        "Led platform-level communications to feature teams every week."
       ],
       "url": "https://www.linkedin.com/company/groupon/",
       "location": "Redwood City, California, United States"
@@ -53,12 +53,12 @@
       "position": "Senior Software Engineer",
       "startDate": "2019-02-28",
       "endDate": "2021-09-30",
-      "summary": "Checkout Web team's tech lead (login/signup, checkout, receipt, and my account pages)",
+      "summary": "Checkout Web team's tech lead (login/signup, checkout, receipt, and my account pages).",
       "highlights": [
-        "Architected and led web and mobile integration with 3DS2.0",
-        "Refactored login/signup web application, improving page load by 20%, thus making it meet business performance goals. Since the page was simple, just Vanilla JS was used to keep it light",
-        "Drove Apple Pay and Paypal implementation into checkout page",
-        "Implemented Payment Request API along with Google Team onto checkout page."
+        "Architected and led web and mobile integration with 3DS2.0.",
+        "Refactored login/signup web application, improving page load by 20%, thus making it meet business performance goals. I used Vanilla JS only to keep it light.",
+        "Drove Apple Pay and Paypal implementation into the checkout page.",
+        "Implemented Payment Request API along with Google Team onto the checkout page."
       ],
       "url": "https://www.linkedin.com/company/groupon/",
       "location": "Chicago, Illinois, United States"
@@ -69,13 +69,13 @@
       "position": "Software Engineer III",
       "startDate": "2015-08-31",
       "endDate": "2019-02-28",
-      "summary": "Checkout Web team's tech lead (login/signup, checkout, receipt, and my account pages)",
+      "summary": "Checkout Web team's tech lead (login/signup, checkout, receipt, and my account pages).",
       "highlights": [
-        "UX overhaul confirmation and receipt page, whole CSS and JS was remade, improving page load by 30%",
-        "Led redesign project for touch experience on the confirmation page. Replaced JQuery code with preact and removed unneeded CSS, improving page load by 60%",
-        "Migrated our test suite from PhantomJS to headless chrome via TestiumJS, improving CI pass by 80%",
-        "Built and led magic link feature for login page",
-        "Migrated logging searches from Splunk to ELK, which contributed to the overall cost reduction usage of third party services",
+        "UX overhaul confirmation and receipt page, whole CSS and JS were remade, improving page load by 30%.",
+        "Led redesign project for touch experience on the confirmation page. Replaced JQuery code with preact and removed unneeded CSS, improving page load by 60%.",
+        "Migrated our test suite from PhantomJS to headless chrome via TestiumJS, improving CI pass by 80%.",
+        "Built and led magic link feature for the login page.",
+        "Built and led magic link feature for the login page.",
         "Integrated ELK searches into Wavefront."
       ],
       "url": "https://www.linkedin.com/company/groupon/",
@@ -87,11 +87,11 @@
       "position": "Software Engineer II",
       "startDate": "2013-07-31",
       "endDate": "2015-07-31",
-      "summary": "User Workflow Team (main checkout page)",
+      "summary": "User Workflow Team (main checkout page).",
       "highlights": [
-        "Migrated the checkout page US from monolithic Ruby on Rails application to in-house NodeJS framework",
-        "Migrated the checkout page EMEA from custom Java framework to in-house NodeJS framework",
-        "Added multi-item order support onto existing orders API (Ruby on Rails)"
+        "Migrated the checkout page US from monolithic Ruby on Rails application to an in-house NodeJS framework.",
+        "Migrated the checkout page EMEA from a custom Java framework to an in-house NodeJS framework.",
+        "Added multi-item order support onto existing orders API (Ruby on Rails)."
       ],
       "url": "https://www.linkedin.com/company/groupon/",
       "location": "Vitacura 2771, Santiago, Chile"
@@ -102,12 +102,12 @@
       "position": "Software Engineer I",
       "startDate": "2012-03-12",
       "endDate": "2013-07-31",
-      "summary": "Groupon Sales Team (Groupon web application specific for Chile)",
+      "summary": "Groupon Sales Team (Groupon web application specific for Chile).",
       "highlights": [
-        "Implemented Geolocalization services for shipping delivery services",
-        "Led IP warm-up on Sendgrid, allowing us to ",
-        "Improved script used for massive email sending (newsletters), reducing it from 4 hours run to under 10 minutes, the script was done in PHP",
-        "Built a web application that allowed for marketing campaign creation, eliminating manual work. The Web application was created with CakePHP and MySQL."
+        "Implemented Geolocalization services for shipping delivery services.",
+        "Led IP warm-up strategy with Sendgrid.",
+        "Improved PHP script for massive email sending (newsletters), reducing it from a 4-hour run to under 10 minutes.",
+        "Built a web application allowing marketing campaign creation, eliminating manual work. I used CakePHP and MySQL for this task."
       ],
       "url": "https://www.linkedin.com/company/groupon/",
       "location": "Vitacura 2771, Santiago, Chile"
@@ -120,8 +120,10 @@
       "url": "https://codenation.org/",
       "startDate": "2021-10-21",
       "endDate": "2022-05-11",
-      "summary": "Taught basic Web development to high school students.",
-      "highlights": []
+      "summary": "Volunteer in James Lick High School in San Jose.",
+      "highlights": [
+        "Taught essential Web development."
+      ]
     }
   ],
   "education": [
