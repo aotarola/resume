@@ -7,10 +7,11 @@
     "email": "andres@otarola.me",
     "phone": "(650) 307 3844",
     "website": "https://otarola.me",
-    "summary": "Engineer with +10 years of experience, I have worked with Nodejs, Ruby on Rails, PHP, Python, Groovy, Elm and Javascript for the most part of my career. I’ve work frameworks such as React, Preact, Django, and CakePHP.\n\nI like type inference functional languages, my all time favorite is Elm, but I have a soft spot for Javascript. I like to tinker with my editor (nvim), and write my code at the speed of thought 😉.\n\nDuring my career I’ve been in the frontend, backend, platform support (CI, cloud, third party integrations), and even email deliverability. Currently, I’m specializing in Platform/Frontend and Web performance.\n\nLast but not least, I like to bake bread 🥖 and brew kombucha, checkout some of my recipes at http://otarola.me\n\nI'm very passionate about the things I do, especially if the task is challenging. \n\nAnd of course, I like to learn new stuff/tech!",
-    "location": {
+    "summary": "I'm a software engineer with +12 years of experience, passionate about technology, web development, and functional programming.\n\nThroughout my career, I had the opportunity to grow at Groupon by building and managing web applications and architected platform-level solutions. I have worked with product and platform teams with a strong front-end focus.\n\nCurrently, I'm looking for a remote frontend role (I'm flexible on a hybrid remote position as well).\n\nMy ideal team is one with highly skilled individuals looking to keep improving and helping each other.",
+ "location": {
       "countryCode": "US",
-      "address": "630 Veterans Blvd, Unit 281, Redwood City, California"
+      "region": "California",
+      "city": "Redwood City"
     },
     "profiles": [
       {
@@ -35,8 +36,14 @@
       "name": "Groupon",
       "position": "Senior Software Engineer (Remote)",
       "startDate": "2021-10-31",
-      "highlights": [],
-      "summary": "Member of the Web Core Team\n - Architected and implemented web integration for Optimizely A/B testing service\n - Supported teams to migrate their on-prem services to the cloud and simplified core cloud configuration for Web.",
+      "endDate": "2022-10-08",
+      "summary": "Member of the Web Core Team",
+      "highlights": [
+        "Architected and implemented Optimizely A/B testing service Web integration",
+        "Supported teams to migrate on-prem services onto AWS",
+        "Built internal web application to visualize and validate experiments on Optimizely. Elm was used in this project",
+        "Led platform level communications to feature teams on a weekly basis"
+      ],
       "url": "https://www.linkedin.com/company/groupon/",
       "location": "Redwood City, California, United States"
     },
@@ -45,33 +52,74 @@
       "position": "Senior Software Engineer",
       "startDate": "2019-02-28",
       "endDate": "2021-09-30",
-      "highlights": [],
-      "summary": "Tech lead of the checkout web team (purchase confirmation page) and user sessions team\n - Architected and implemented web and mobile integration with 3DS2.0\n - Complete overhaul to login/signup web application, thus making it meet business' performance goals",
+      "summary": "Checkout Web team's tech lead (login/signup, checkout, receipt, and my account pages)",
+      "highlights": [
+        "Architected and led web and mobile integration with 3DS2.0",
+        "Refactored login/signup web application, improving page load by 20%, thus making it meet business' performance goals. Since page was simple, just Vanilla JS was used, to keep it light",
+        "Drove Apple Pay and Paypal implementation into checkout page",
+        "Implemented Payment Request API along with Google onto checkout page"
+      ],
       "url": "https://www.linkedin.com/company/groupon/",
       "location": "Chicago, Illinois, United States"
     },
     {
       "name": "Groupon",
-      "position": "Software Engineer",
+      "position": "Software Engineer III",
       "startDate": "2015-08-31",
       "endDate": "2019-02-28",
-      "highlights": [],
-      "summary": "Tech lead of the checkout web team (purchase confirmation page)\n - Refactored confirmation/receipt page (UX-wise, CSS and JS was remade)\n - Led touch redesign project for confirmation page, frontend stack: redux & preact\n - Migrated our integration testing browser agent from PhantomJS to headless chrome. \n - Building and leading magic link implementation as an alternate authentication method\n - Migrated our logging searches from Splunk to ELK\n - Integrated ELK searches into Wavefront",
+      "summary": "Checkout Web team's tech lead (login/signup, checkout, receipt, and my account pages)",
+      "highlights": [
+        "UX overhaul confirmation and receipt page, whole CSS and JS was remade, improving page load by 30%",
+        "Led redesign project for touch experience on confirmation page. Replaced JQuery code with preact and removed unneded CSS, improving page load by 60%",
+        "Migrated our test suite from PhantomJS to headless chrome via testiumjs, improving CI passing time by 80%",
+        "Built and led magic link feature for login page",
+        "Migrated logging searches from Splunk to ELK, which contributed to the overall cost reduction usage of third party services",
+        "Integrated ELK searches into Wavefront"
+      ],
       "url": "https://www.linkedin.com/company/groupon/",
       "location": "3101 Park Boulevard, Palo Alto, California"
     },
     {
       "name": "Groupon",
-      "position": "Software Engineer",
+      "position": "Software Engineer II",
       "startDate": "2013-07-31",
       "endDate": "2015-07-31",
-      "highlights": [],
-      "summary": "User Workflow Team (Chicago Team) - Software Engineer - NodeJs/Ruby\n\nResponsibilities:\n- Develop a NodeJs application using an in-house Framework to migrate current Monolithic App (Ruby on Rails) to a pool of distributed apps\n- The apps that I worked on were: Checkout, My account and Login/SignUp/Password Reset (all in NodeJs)\n- Modified current API frontend to enable some endpoints that needed to talk with our NodeJs apps, this API was written in Ruby On Rails (needed for the migration)\n- Participated in the migration for US/Canada, and also in the EMEA migration for our apps\n- Modified current API frontend to be ready to serve all deal types for a specific multi item endpoint for our checkout application (needed to allow checkout to take over for goods deal for US)",
+      "summary": "User Workflow Team (main checkout page)",
+      "highlights": [
+        "Migrated the checkout page US from monolithic Ruby on Rails application to in-house NodeJS framework",
+        "Migrated the checkout page EMEA from custom Java framework to in-house NodeJS framework",
+        "Added multi-item order support onto existing orders API (Ruby on Rails)"
+      ],
+      "url": "https://www.linkedin.com/company/groupon/",
+      "location": "Vitacura 2771, Santiago, Chile"
+    },
+    {
+      "name": "Groupon",
+      "position": "Software Engineer I",
+      "startDate": "2012-03-12",
+      "endDate": "2013-07-31",
+      "summary": "Groupon Sales Team (Groupon web application specific for Chile)",
+      "highlights": [
+        "Implemented Geolocalization services for shipping delivery services",
+        "Led IP warm-up on Sendgrid, allowing us to ",
+        "Improved script used for massive email sending (newsletters), reducing it from a 4 hours run to under 10 minutes, the scrip was done in PHP",
+        "Built a web application which allowed for marketing campaing creation, eliminating manual work. The Web application was created with CakePHP and MySQL"
+      ],
       "url": "https://www.linkedin.com/company/groupon/",
       "location": "Vitacura 2771, Santiago, Chile"
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Code Nation",
+      "position": "Volunteer",
+      "url": "https://codenation.org/",
+      "startDate": "2021-10-21",
+      "endDate": "2022-05-11",
+      "summary": "Taught basic Web development to highschool students.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "Universidad Arturo Prat",
@@ -86,38 +134,53 @@
   "publications": [],
   "skills": [
     {
-      "name": "Frontend",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "HTML/JSX",
-        "Stylus/TailwindCSS/CSS",
-        "Javascript/Typescript/Coffeescript",
-        "Preact/React/Next",
-        "Redux",
+        "HTML/CSS",
+        "Javascript",
+        "Typescript",
+        "Coffeescript",
+        "Ruby",
+        "Python",
         "Elm"
       ]
     },
     {
-      "name": "Backend",
+      "name": "Technologies",
       "level": "",
       "keywords": [
+        "Stylus/TailwindCSS",
+        "Preact/React/Next.js",
+        "Redux",
         "NodeJS",
-        "Ruby",
-        "Python",
-        "Postgres",
-        "Django",
-        "Redis"
+        "Redis",
+        "memcached",
+        "CI/Jenkins",
+        "OSX/Linux"
       ]
     },
     {
-      "name": "Devops",
+      "name": "Working knowledge of",
       "level": "",
       "keywords": [
+        "Django",
         "Kubernetes",
-        "CI/Jenkins",
-        "Heroku",
-        "Netlifly",
-        "Vercel"
+        "Helm",
+        "Elastic Search",
+        "Splunk",
+        "CakePHP",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": [
+        "Relational databases",
+        "Test Driven Development",
+        "E2E testing",
+        "Agile methodologies Scrum/Kanban"
       ]
     }
   ],
@@ -136,28 +199,13 @@
       "name": "Functional Programming"
     },
     {
-      "name": "Videogames"
+      "name": "Japanese language"
     },
     {
-      "name": "Boardgames"
+      "name": "(Video | Board) games"
     },
     {
-      "name": "Bread baking 🥖"
-    }
-  ],
-  "references": [
-    {
-      "name": "Vanessa Yévenes",
-      "reference": "Andres is a dedicated professional, with great interest in learning and great collaboration with his colleagues."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Encuentro Linux 2007",
-      "startDate": "2007-12-31",
-      "summary": "Developed the site's backend in Ruby on Rails 1.2",
-      "url": "http://2007.encuentrolinux.cl",
-      "endDate": "2007-12-31"
+      "name": "Bread baking"
     }
   ],
   "meta": {
