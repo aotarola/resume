@@ -6,11 +6,11 @@
     "email": "andres@otarola.me",
     "phone": "(650) 307 3844",
     "website": "https://otarola.me",
-    "summary": "I'm a software engineer with +12 years of experience, passionate about technology, web development, and functional programming.\n\nThroughout my career, I had the opportunity to grow at Groupon by building and managing web applications and architected platform-level solutions. I have worked with product and platform teams with a strong front-end focus.\n\nCurrently, I'm looking for a remote front-end role (I'm flexible on a hybrid remote position as well).\n\nMy ideal team is one with highly skilled individuals looking to keep improving and helping each other.",
+    "summary": "Software engineer with over 12 years of experience, specializing in full-stack development, technology innovation, and automation.\n\n At XOPS, I played a key role in building the foundation of the event-driven architecture currently used in the platform, while also architecting platform-level solutions, including automated deployments, test coverage automation, and tools for best practices like linters and code formatters.\n\n I like to make hard things easy thus enhancing the developer experience to deliver delightful features to customers efficiently. I thrive in teams of highly skilled professionals who are committed to continuous improvement and mutual support.",
     "location": {
       "countryCode": "US",
       "region": "California",
-      "city": "Redwood City"
+      "city": "Hayward"
     },
     "profiles": [
       {
@@ -31,6 +31,38 @@
     ]
   },
   "work": [
+    {
+      "name": "XperiencOps, Inc",
+      "company": "XperiencOps, Inc",
+      "position": "Staff Software Engineer (On-Site)",
+      "startDate": "2023-05-01",
+      "endDate": "2024-04-01",
+      "summary": "Member of the Core/Dataops Team.",
+      "highlights": [
+        "Architected and developed a foundational agent framework enabling asynchronous feature development across the platform.",
+        "Migrated an SFTP-driven pipeline from TypeScript to Python, improving maintainability and performance, reducing feature development velocity by half.",
+        "Implemented automated tools for test coverage and reinforced testing best practices, enhancing code quality and reliability."
+      ],
+      "url": "https://www.linkedin.com/company/xperiencops",
+      "location": "Hayward, California, United States"
+    },
+    {
+      "name": "XperiencOps, Inc",
+      "company": "XperiencOps, Inc",
+      "position": "Senior Software Engineer (Remote)",
+      "startDate": "2023-05-01",
+      "endDate": "2024-04-01",
+      "summary": "Member of the Core Team.",
+      "highlights": [
+        "Implemented an event-driven architecture to decouple processes and improve scalability",
+        "Developed an Observability API for public-facing customers, enhancing monitoring and transparency.",
+        "Built foundational unit and integration testing tools for GraphQL and REST API services, ensuring robust test coverage.",
+        "Automated deployment of feature pipelines in GitLab and GitHub, streamlining the development workflow.",
+        "Designed and implemented a multiplexer architecture to support application-level separation of customer databases, improving data management and isolation."
+      ],
+      "url": "https://www.linkedin.com/company/xperiencops",
+      "location": "Hayward, California, United States"
+    },
     {
       "name": "Groupon (US)",
       "company": "Groupon (US)",
@@ -121,9 +153,7 @@
       "startDate": "2021-10-21",
       "endDate": "2022-05-11",
       "summary": "Volunteer in James Lick High School in San Jose.",
-      "highlights": [
-        "Taught essential Web development."
-      ]
+      "highlights": ["Taught essential Web development."]
     }
   ],
   "education": [
@@ -215,7 +245,7 @@
     }
   ],
   "meta": {
-    "theme": "flat",
+    "theme": "jsonresume-theme-flat",
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }

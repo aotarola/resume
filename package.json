@@ -1,6 +1,13 @@
 {
+  "scripts": {
+    "init": "resumed init",
+    "generate": "node index.js"
+  },
   "dependencies": {
     "jsonresume-theme-caffeine": "^1.2.3",
-    "resume-cli": "^3.0.8"
+    "jsonresume-theme-even": "^0.23.0",
+    "jsonresume-theme-flat": "^0.3.7",
+    "puppeteer": "^23.6.0",
+    "resumed": "^4.0.0"
   }
 }
